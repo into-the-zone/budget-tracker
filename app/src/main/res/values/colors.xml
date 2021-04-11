@@ -6,4 +6,5 @@
     <color name="textMain">#292929</color>
     <color name="green">#43A047</color>
     <color name="red">#E53935</color>
+    <color name="white">#FFF</color>
 </resources>

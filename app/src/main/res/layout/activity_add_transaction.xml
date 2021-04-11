@@ -60,7 +60,7 @@
                 android:drawableStart="@drawable/money_selector"
                 android:drawablePadding="12dp"
                 android:maxLines="1"
-                android:inputType="numberDecimal"/>
+                android:inputType="numberDecimal|numberSigned"/>
         </com.google.android.material.textfield.TextInputLayout>
 
         <com.google.android.material.textfield.TextInputLayout
