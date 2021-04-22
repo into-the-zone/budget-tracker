@@ -1,4 +1,5 @@
 # budget-tracker
+
 In this series for Android development with Kotlin for beginners, you will learn how to make a budget tracker app from start to finish.  Together, through 7 lessons, we'll build this application, a budget tracker where:
 
 - You can set budgets
@@ -16,5 +17,4 @@ At the end of this series you will learn about
 - Why you should use third-party libraries like material components and  how to include them in your project
 - And finally how to use the Android Room Library to store app data in the local memory
 
-If This sounds fun? See you on my YouTube Channel to get into it!
-
+If This sounds fun? See you on my [YouTube Channel](https://www.youtube.com/playlist?list=PLpZQVidZ65jPUF-o0LUvkY-XVAAkvL-Xb) to get into it!
