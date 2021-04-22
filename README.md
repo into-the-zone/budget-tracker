@@ -17,4 +17,4 @@ At the end of this series you will learn about
 - Why you should use third-party libraries like material components and  how to include them in your project
 - And finally how to use the Android Room Library to store app data in the local memory
 
-If This sounds fun? See you on my [YouTube Channel](https://www.youtube.com/playlist?list=PLpZQVidZ65jPUF-o0LUvkY-XVAAkvL-Xb) to get into it!
+This sounds fun? See you on my [YouTube Channel](https://www.youtube.com/playlist?list=PLpZQVidZ65jPUF-o0LUvkY-XVAAkvL-Xb) to get into it!
