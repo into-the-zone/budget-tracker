@@ -41,13 +41,16 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@id/balance_layout"
-            android:layout_marginTop="12dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
             android:layout_marginStart="10dp"
             android:layout_marginEnd="10dp"
             app:cardCornerRadius="12dp">
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:paddingTop="12dp"
+                android:paddingBottom="12dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="10dp">
                 <LinearLayout
@@ -62,13 +65,13 @@
                         android:layout_height="wrap_content"
                         android:text="$400"
                         android:textStyle="bold"
-                        android:textSize="26sp"
+                        android:textSize="32sp"
                         android:textColor="@color/green"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Budget"
-                        android:textSize="14sp"
+                        android:textSize="17sp"
                         android:textAllCaps="true"/>
                 </LinearLayout>
                 <LinearLayout
@@ -83,13 +86,13 @@
                         android:layout_height="wrap_content"
                         android:text="$400"
                         android:textStyle="bold"
-                        android:textSize="26sp"
+                        android:textSize="32sp"
                         android:textColor="@color/red"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Expense"
-                        android:textSize="14sp"
+                        android:textSize="17sp"
                         android:textAllCaps="true"/>
                 </LinearLayout>
             </LinearLayout>
@@ -101,7 +104,7 @@
             android:layout_height="wrap_content"
             android:text="Transactions"
             android:textStyle="bold"
-            android:textSize="14sp"
+            android:textSize="17sp"
             android:textAllCaps="true"
             android:layout_below="@id/dashboard"
             android:layout_marginTop="12dp"

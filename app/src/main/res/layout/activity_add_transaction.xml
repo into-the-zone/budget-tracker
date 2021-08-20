@@ -79,8 +79,7 @@
                 android:layout_height="wrap_content"
                 android:drawableStart="@drawable/description_selector"
                 android:drawablePadding="12dp"
-                android:maxLines="1"
-                android:inputType="text"/>
+                android:inputType="text|textMultiLine"/>
         </com.google.android.material.textfield.TextInputLayout>
         <Button
             android:id="@+id/addTransactionBtn"
